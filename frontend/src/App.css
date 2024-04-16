@@ -1,0 +1,13 @@
+/* .banner2 .container .wrapper {
+	animation: transitionIn 0.75s;
+}
+@keyframes transitionIn {
+	from {
+		opacity: 0;
+        transform: translateY(40rem);
+	}
+	to {
+		opacity: 1;
+		
+	}
+} */
