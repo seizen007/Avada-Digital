@@ -20,8 +20,8 @@ export default {
 			},
 			backgroundImage: {
 				banner: "url('assets/banner-2.jpg')",
-				interior: "url('src/assets/prebuilt-web/avada-interior-prebuilt.jpg')",
-				subscribe: "url('src/assets/banner-3.jpg')",
+				interior: "url('assets/prebuilt-web/avada-interior-prebuilt.jpg')",
+				subscribe: "url('assets/banner-3.jpg')",
 			},
 			colors: {
 				buttonH: "#f45c20",
