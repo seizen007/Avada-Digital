@@ -19,7 +19,7 @@ export default {
 					"repeat(1, minmax(0, 0.7fr)) minmax(0, 0.5fr) repeat(1, minmax(0, 1fr))",
 			},
 			backgroundImage: {
-				banner: "url('src/assets/banner-2.jpg')",
+				banner: "url('assets/banner-2.jpg')",
 				interior: "url('src/assets/prebuilt-web/avada-interior-prebuilt.jpg')",
 				subscribe: "url('src/assets/banner-3.jpg')",
 			},
