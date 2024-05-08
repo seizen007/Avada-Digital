@@ -1,6 +1,6 @@
 import React from "react";
 import Picture from "../../../assets/Picture";
-
+import Button from "../../../components/styledComponents/Button";
 const fullService = () => {
 	return (
 		<div className="fullservice">
@@ -19,7 +19,7 @@ const fullService = () => {
 							</p>
 						</div>
 						<div className="button">
-							<button>Got a project? Contact us!</button>
+							<Button>Got a project? Contact us!</Button>
 						</div>
 					</div>
 				</div>
